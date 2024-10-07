@@ -2,6 +2,11 @@
 This is where I documented my project while learning Data Analysis with the Incubator Hub
 ## Project Title: Car Sales Analysis
 ----
+### Outline
+[Project Overview].(#project-overview).
+Tools Used
+
+
 ### Project Overview
 This Data Analysis project is aimed at designing  and developing a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 ----
@@ -21,8 +26,11 @@ The dashboard should provide real-time insights into key performance indicators 
 •	YTD Average Price
 •	MTD Average Price
 •	YOY Growth in Average Price
+
+
+Heading 1
 •	Difference between YTD Average Price and PTYD Average Price
-3.	Cars Sold Metrics:
+4.	Cars Sold Metrics:
 •	YTD Cars Sold
 •	MTD Cars Sold
 •	YOY Growth in Cars Sold
